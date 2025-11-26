@@ -2,23 +2,6 @@
 
 **Electronics & Computer Engineering Student | AI & ML Enthusiast | DSA Solver | Tech Explorer**  
 📍 India
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=techbypradnya&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
----
-
-## 🚀 GitHub Stats
-
-<p align="center">
-  <!-- Working GitHub Stats (Mirror) -->
-  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=techbypradnya&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
-
-  <!-- Working GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=techbypradnya&theme=radical" height="160" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🧩 Core Skills
