@@ -7,6 +7,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pradnya-001&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
+---
+
 ## 🚀 GitHub Stats
 
 <p align="center">
@@ -16,11 +18,36 @@
 
 ---
 
-## 💡 LeetCode Profile
-[![LeetCode](https://img.shields.io/badge/LeetCode-Pradnya__Pangavhane__-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Pradnya_Pangavhane_/)
-
----
 ## 🧩 Core Skills
+
 **Languages:** C, C++, Python, HTML, CSS  
 **Frameworks & Libraries:** Flask, Streamlit, TensorFlow, Keras, scikit-learn  
 **Databases:** MySQL, SQLite  
+**Other Skills:** Data Structures & Algorithms, Generative AI, Machine Learning, Git & GitHub
+
+---
+
+## 💡 LeetCode Profile
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Pradnya__Pangavhane__-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Pradnya_Pangavhane_/)
+
+---
+
+## 📌 About Me
+
+- 🎓 Electronics & Computer Engineering (ECE) student  
+- 🤖 Passionate about AI/ML, Deep Learning & Generative AI  
+- 💻 Solving DSA problems to strengthen logic  
+- 🌱 Exploring cloud computing, full-stack development & system design  
+- 🚀 Always excited to learn new technologies  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 **LinkedIn:** [Pradnya Pangavhane](https://www.linkedin.com/in/pradnya-pangavhane-446793289/)  
+- 💻 **GitHub:** [pradnya-001](https://github.com/pradnya-001)
+
+---
+
+⭐ *Feel free to explore my repositories and drop a star if you like my work!*
