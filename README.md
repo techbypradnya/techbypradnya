@@ -11,10 +11,13 @@
 
 ## 🚀 GitHub Stats
 
+## 🚀 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradnya-001&show_icons=true&theme=radical" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradnya-001&theme=radical" height="160" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=techbypradnya&show_icons=true&theme=radical" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techbypradnya&theme=radical" height="160" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
