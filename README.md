@@ -5,19 +5,19 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=pradnya-001&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=techbypradnya&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
 ## 🚀 GitHub Stats
 
-## 🚀 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techbypradnya&show_icons=true&theme=radical" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techbypradnya&theme=radical" height="160" alt="GitHub Streak"/>
-</p>
+  <!-- Working GitHub Stats (Mirror) -->
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=techbypradnya&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
 
+  <!-- Working GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=techbypradnya&theme=radical" height="160" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -49,7 +49,7 @@
 ## 📫 Connect With Me
 
 - 🌐 **LinkedIn:** [Pradnya Pangavhane](https://www.linkedin.com/in/pradnya-pangavhane-446793289/)  
-- 💻 **GitHub:** [pradnya-001](https://github.com/pradnya-001)
+- 💻 **GitHub:** [techbypradnya](https://github.com/techbypradnya)
 
 ---
 
