@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Pradnya Shailendra Pangavhane 👋
+# Hi there, I'm Pradnya Shailendra Pangavhane
 
 ### Electronics & Computer Engineering Student | AI/ML Engineer | Full-Stack Developer
 
