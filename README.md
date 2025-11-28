@@ -126,21 +126,6 @@ const currentFocus = {
 
 ---
 
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-  
-### 📊 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Pradnya_Pangavhane_?theme=dark&font=Noto%20Sans&ext=activity)](https://leetcode.com/u/Pradnya_Pangavhane_/)
-
-</div>
-
----
-
 ## 🌟 Highlights & Achievements
 
 - ✅ **Active Contributor** on GitHub with consistent project development
