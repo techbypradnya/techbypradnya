@@ -133,7 +133,7 @@ const currentFocus = {
 - 🎓 **Strong Academic Foundation** in Electronics & Computer Engineering
 - 💻 **Multiple Full-Stack Projects** deployed on cloud platforms
 - 🤖 **AI/ML Projects** focusing on real-world applications
-- 📚 **Continuous Learner** staying updated with latest technologies
+- 📚 **Continuous Learner** staying updated with latest technologies and Trends
 
 ---
 
