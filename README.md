@@ -2,7 +2,7 @@
 
 # Hi there, I'm Pradnya Shailendra Pangavhane!
 
-### Electronics & Computer Engineering Student | AI/ML Engineer | Full-Stack Developer
+### Electronics & Computer Engineering Student | AI/ML Engineer | Full-Stack Developer | Artist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://pradnya-portfolio-website-tpb9.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradnya-pangavhane-446793289/)
