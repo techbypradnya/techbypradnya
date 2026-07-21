@@ -149,7 +149,7 @@ I'm always interested in collaborating on:
 
 ---
 
-## 📫 Get In Touch
+## 📫 Get In Touch with me
 
 <div align="center">
 
