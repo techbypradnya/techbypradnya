@@ -20,7 +20,7 @@
 I'm a passionate **Electronics & Computer Engineering student** with a strong foundation in **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development**. I love building intelligent systems and solving complex problems through code.
 
 - 🎓 Pursuing **Electronics & Computer Engineering (ECE)**
-- 💡 Specializing in **AI/ML, Deep Learning & Generative AI**
+- 💡 Specializing in **AI/ML, Deep  Learning & Generative AI**
 - 💻 Building **full-stack applications** with modern frameworks
 - 🧩 Active **competitive programmer** solving DSA challenges
 - 🌱 Currently exploring **Cloud Computing**, **System Design** & **DevOps**
